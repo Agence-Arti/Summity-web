@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "title": "Summity - E-learning & Training Video Creation Agency",
+    "description": "Summity creates motion design training and e-learning videos by real humans. Creative solutions for businesses."
+  },
+  "toast": {
+    "notImplemented_title": "🚧 This feature isn't implemented yet",
+    "notImplemented_description": "But don't worry! You can request it in your next prompt! 🚀"
+  },
+  "intro": {
+    "slogan": "Rethinking training, through motion design.",
+    "logoAlt": "Summity logo"
+  },
+  "header": {
+    "navProjects": "Projects",
+    "navPackages": "Packages",
+    "navProcess": "Process",
+    "navTestimonials": "Reviews",
+    "contact": "Contact us",
+    "toggleMenu": "Toggle menu"
+  },
+  "hero": {
+    "badge": "Ranked in the Top 75 creative agencies",
+    "title": "We transform corporate training with motion design.",
+    "subtitle": "We convert your training processes into video modules that strengthen your company culture. The goal: To make people understand. To make them remember. To make them apply.",
+    "bubble1_1": "Motion Design",
+    "bubble1_2": "Pedagogy",
+    "bubble1_3": "Acting",
+    "bubble2_1": "100% satisfied clients",
+    "bubble2_2": "Professional content",
+    "bubble2_3": "100% Human",
+    "bubble3_1": "From Montreal",
+    "bubble3_2": "Canadian Company",
+    "button_appointment": "Book an appointment",
+    "button_projects": "See our work"
+  },
+  "projects": {
+    "title": "Our Latest Projects",
+    "subtitle": "A glimpse of our expertise in motion design for training.",
+    "project1_title": "Client Onboarding Training",
+    "project1_desc": "Explanatory video for new client integration.",
+    "project2_title": "E-learning Module: Cybersecurity",
+    "project2_desc": "Interactive training on cybersecurity best practices.",
+    "project3_title": "Innovative Product Presentation",
+    "project3_desc": "Marketing video for the launch of a new SaaS product.",
+    "project4_title": "Animated Company Culture",
+    "project4_desc": "Video to communicate company values and culture."
+  },
+  "offre": {
+    "title": "Our Packages",
+    "box1_text": "At Summity, we believe in transparent pricing. Every project is unique, but to give you a clear idea of the investment, our training video projects start from <1>CAD $700</1> per minute produced.",
+    "box2_text": "The majority of our partners, Quebec SMEs, invest between <1>$3,500 and $8,000</1> for a complete series of training capsules that meets all their onboarding or continuous training needs.",
+    "package1_title": "Trial Package (1-4 minutes)",
+    "package1_desc": "Ideal for a single capsule, an important internal communication, or to test the impact of video on your teams.",
+    "package2_title": "Volume Package (5-15 minutes)",
+    "package2_desc": "Our most popular option. Perfect for creating a complete training series on new software, a sales process, or welcoming new employees.",
+    "package3_title": "Minute Bank Package (+15 minutes)",
+    "package3_desc": "The partner solution for companies with recurring needs. Buy a bank of minutes and benefit from our best rate throughout the year.",
+    "popular": "Most Popular",
+    "discount15": "-15%",
+    "discount25": "-25%",
+    "button_quote": "Get a custom quote"
+  },
+  "processus": {
+    "title": "Our Creation Process",
+    "subtitle": "Discover how we transform your training processes into clear, engaging motion design videos designed to maximize retention.",
+    "card1_title": "(Day 1-2)",
+    "card1_subtitle": "Kick-off Briefing",
+    "card1_desc": "Launch call with Arthur. We define your needs together.",
+    "card2_title": "(Day 3-11)",
+    "card2_subtitle": "Script and Storyboard",
+    "card2_desc": "Creation of the storyboard and script by our pedagogue and our scriptwriter.",
+    "card3_title": "(1st Validation)",
+    "card3_subtitle": "1st Validation",
+    "card3_desc": "You validate the script and storyboard using our dedicated platform.",
+    "card4_title": "(Day 12-18)",
+    "card4_subtitle": "Motion Design",
+    "card4_desc": "Animation of the storyboard by our motion designers.",
+    "card5_title": "(2nd Validation)",
+    "card5_subtitle": "2nd Validation",
+    "card5_desc": "You review the V1 of the video and give us your feedback on the platform.",
+    "card6_title": "(Day 19-21)",
+    "card6_subtitle": "Adjustments",
+    "card6_desc": "Corrections based on your feedback on V1 by our motion designers.",
+    "card7_subtitle": "Final Delivery",
+    "button_start": "Start Your Transformation Now!",
+    "side_text": "“Your time is precious: we manage the entire project, only involving you at three key moments for your strategic decisions.”",
+    "side_img_alt": "Portrait of Arthur, project manager"
+  },
+  "testimonials": {
+    "title": "Their Feedback",
+    "testimonial1_quote": "Their expertise allowed us to launch our project in record time. A responsive and incredibly effective team.",
+    "testimonial1_name": "John Smith",
+    "testimonial1_title": "CEO, TechInnov",
+    "testimonial1_avatar": "Portrait of John Smith",
+    "testimonial2_quote": "The quality of the code and adherence to deadlines are impeccable. Summity successfully translated our vision into a high-performing digital solution.",
+    "testimonial2_name": "Marie Curie",
+    "testimonial2_title": "Marketing Director, SolutionPro",
+    "testimonial2_avatar": "Portrait of Marie Curie",
+    "testimonial3_quote": "A trusted partner who goes beyond development. Their strategic approach has been a real asset to our growth.",
+    "testimonial3_name": "Pierre Martin",
+    "testimonial3_title": "Founder, Startup Agile",
+    "testimonial3_avatar": "Portrait of Pierre Martin"
+  },
+  "socialProof": {
+    "text": "Recognized by industry leaders"
+  },
+  "cta": {
+    "title": "Ready to transform your training?",
+    "subtitle": "Contact us to discuss your project and discover how our videos can revolutionize learning in your company.",
+    "button_appointment": "Book an appointment",
+    "button_quote": "Request a free quote",
+    "button_call": "Schedule a call"
+  },
+  "footer": {
+    "aboutUsTitle": "About Us",
+    "aboutUsDescription": "Innovative video creation agency specializing in motion design for e-learning and corporate training. We transform complex ideas into engaging visual stories.",
+    "quickLinksTitle": "Quick Links",
+    "contactTitle": "Contact Us",
+    "followUsTitle": "Follow Us",
+    "address": "Montreal, Canada",
+    "navProjects": "Projects",
+    "navPackages": "Packages",
+    "navProcess": "Process",
+    "navTestimonials": "Reviews",
+    "navContact": "Contact",
+    "copyright": "© {{year}} Summity. All rights reserved.",
+    "legalNotice": "Legal Notice",
+    "termsOfUse": "Terms of Use"
+  },
+  "legalNotice": {
+    "title": "Legal Notice",
+    "sections": [
+      {
+        "title": "Site Editor",
+        "content": "The summity.ca website is published by: Summity Inc. 9329 rue de Lille, Montréal, QC, Canada H1z 2p4, 514-953-8013, arthurlemire@summity.ca. Publication Director: Arthur Lemire, Founder."
+      },
+      {
+        "title": "Site Host",
+        "content": "The website is hosted by: Netlify, 512 2nd Street, Suite 200 San Francisco, CA 94107 United States."
+      }
+    ]
+  },
+  "termsOfUse": {
+    "title": "Privacy Policy & Terms of Use",
+    "sections": [
+      {
+        "title": "Privacy Policy of Summity Inc.",
+        "content": [
+          "<strong>Introduction</strong> This privacy policy describes how Summity Inc. ('we') collects, uses, protects, and shares the personal information of users ('you') of our website."
+        ]
+      },
+      {
+        "title": "1. Collection of Personal Information",
+        "content": "We collect information when you contact us via a contact form, subscribe to our newsletter, or use our website. The information collected may include your name, email address, phone number, and technical data (IP address, browser type) via cookies and web analysis tools like Google Analytics."
+      },
+      {
+        "title": "2. Use of Personal Information",
+        "content": "The information we collect is used to:<ul><li>Respond to your requests and questions.</li><li>Manage communications and send you information about our services.</li><li>Improve and personalize your experience on our website.</li><li>Analyze website usage to optimize our services.</li></ul>"
+      },
+      {
+        "title": "3. Sharing of Personal Information",
+        "content": "We do not sell or rent your personal information to third parties. Your information may be shared with third-party service providers (e.g., hosting services or newsletter platforms) to help us operate our business, but only if these third parties agree to maintain the confidentiality of this information."
+      },
+      {
+        "title": "4. Security",
+        "content": "We implement security measures to protect your personal information. However, no method of transmission over the Internet is completely secure, and we cannot guarantee absolute security."
+      },
+      {
+        "title": "5. Your Rights",
+        "content": "You have the right to access the personal information we hold about you and to request its correction or deletion. To exercise these rights or for any questions regarding our privacy policy, please contact us at arthurlemire@summity.ca."
+      },
+      {
+        "title": "6. Cookies",
+        "content": "Our website uses cookies to improve your user experience. You can disable cookies through your browser settings, but this may affect the functionality of some parts of our site."
+      },
+      {
+        "title": "General Terms of Use of Summity Inc.",
+        "content": ""
+      },
+      {
+        "title": "Article 1: Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these General Terms of Use (GTU). If you do not agree to these terms, you must immediately stop using this site."
+      },
+      {
+        "title": "Article 2: Intellectual Property",
+        "content": "The content of this website, including but not limited to, texts, graphics, videos, logos, icons, and images, is the property of Summity Inc. or its licensors and is protected by intellectual property laws. Any unauthorized reproduction, distribution, or use of the content is strictly prohibited."
+      },
+      {
+        "title": "Article 3: Use of the Site",
+        "content": "You agree to use this website in a lawful and appropriate manner. It is forbidden to use the site to publish illegal, defamatory, obscene, or harmful content. You must also not interfere with the operation of the site."
+      },
+      {
+        "title": "Article 4: External Links",
+        "content": "This site may contain links to third-party websites. These links are provided for your convenience only. We have no control over the content of these sites and are not responsible for their content or privacy practices."
+      },
+      {
+        "title": "Article 5: Limitation of Liability",
+        "content": "This website and its content are provided 'as is'. We make no warranties, express or implied, as to the accuracy or reliability of the information contained herein. In no event shall Summity Inc. be liable for any direct, indirect, or other damages arising from the use of this site."
+      },
+      {
+        "title": "Article 6: Applicable Law and Jurisdiction",
+        "content": "These GTU are governed by the laws of the province of Quebec. Any dispute relating to the use of this site will be brought before the competent courts of the judicial district of Montreal."
+      }
+    ]
+  },
+  "calendly": {
+    "title": "Schedule an Appointment Directly"
+  }
+}

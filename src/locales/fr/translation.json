@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "title": "Summity - Agence de création de vidéos de formation & E-learning",
+    "description": "Summity crée des vidéos de formation et d'e-learning en motion design par de vrais humains. Des solutions créatives pour les entreprises."
+  },
+  "toast": {
+    "notImplemented_title": "🚧 Cette fonctionnalité n'est pas encore implémentée",
+    "notImplemented_description": "Mais ne vous inquiétez pas ! Vous pouvez la demander lors de votre prochaine requête ! 🚀"
+  },
+  "intro": {
+    "slogan": "Repenser la formation, par le motion design.",
+    "logoAlt": "Logo de Summity"
+  },
+  "header": {
+    "navProjects": "Projets",
+    "navPackages": "Offres",
+    "navProcess": "Démarche",
+    "navTestimonials": "Avis",
+    "contact": "Contactez-nous",
+    "toggleMenu": "Basculer le menu"
+  },
+  "hero": {
+    "badge": "Classée dans le Top 75 des agences créatives",
+    "title": "Nous transformons la formation d'entreprise avec le motion design.",
+    "subtitle": "Nous convertissons vos processus de formation en modules vidéo qui renforcent votre culture d'entreprise. Le but : Faire comprendre. Faire retenir. Faire appliquer.",
+    "bubble1_1": "Motion Design",
+    "bubble1_2": "Pédagogie",
+    "bubble1_3": "Jeu d'acteur",
+    "bubble2_1": "100% de clients satisfaits",
+    "bubble2_2": "Contenu professionnel",
+    "bubble2_3": "100% Humain",
+    "bubble3_1": "De Montréal",
+    "bubble3_2": "Entreprise Canadienne",
+    "button_appointment": "Prendre un rendez-vous",
+    "button_projects": "Voir nos réalisations"
+  },
+  "projects": {
+    "title": "Nos Derniers Projets",
+    "subtitle": "Un aperçu de notre expertise en motion design pour la formation.",
+    "project1_title": "Formation d'Intégration Client",
+    "project1_desc": "Vidéo explicative pour l'intégration des nouveaux clients.",
+    "project2_title": "Module E-learning : Cybersécurité",
+    "project2_desc": "Formation interactive sur les bonnes pratiques en cybersécurité.",
+    "project3_title": "Présentation de Produit Innovant",
+    "project3_desc": "Vidéo marketing pour le lancement d'un nouveau produit SaaS.",
+    "project4_title": "Culture d'Entreprise Animmée",
+    "project4_desc": "Vidéo pour communiquer les valeurs et la culture de l'entreprise."
+  },
+  "offre": {
+    "title": "Nos Forfaits",
+    "box1_text": "Chez Summity, nous croyons en une tarification transparente. Chaque projet est unique, mais pour vous donner une idée claire de l'investissement, nos projets de vidéo de formation débutent à partir de <1>700$ CAD</1> par minute produite.",
+    "box2_text": "La majorité de nos partenaires, des PME québécoises, investissent entre <1>3 500$ et 8 000$</1> pour une série complète de capsules de formation qui répond à l'ensemble de leurs besoins d'intégration (onboarding) ou de formation continue.",
+    "package1_title": "Forfait Essai (1-4 minutes)",
+    "package1_desc": "Idéal pour une capsule unique, une communication interne importante, ou pour tester l'impact de la vidéo sur vos équipes.",
+    "package2_title": "Forfait Volume (5-15 minutes)",
+    "package2_desc": "Notre option la plus populaire. Parfaite pour créer une série de formation complète sur un nouveau logiciel, un processus de vente, ou l'accueil des nouveaux employés.",
+    "package3_title": "Forfait Banque de minutes (+15 minutes)",
+    "package3_desc": "La solution partenaire pour les entreprises avec des besoins récurrents. Achetez une banque de minutes et bénéficiez de notre meilleur tarif tout au long de l'année.",
+    "popular": "Le plus populaire",
+    "discount15": "-15%",
+    "discount25": "-25%",
+    "button_quote": "Obtenir un devis personnalisé"
+  },
+  "processus": {
+    "title": "Notre Processus de Création",
+    "subtitle": "Découvrez comment nous transformons vos processus de formation en vidéos motion design claires, engageantes et conçues pour maximiser la rétention.",
+    "card1_title": "(Jour 1-2)",
+    "card1_subtitle": "Brief de lancement",
+    "card1_desc": "Appel de lancement avec Arthur. On définit ensemble vos besoins.",
+    "card2_title": "(Jour 3-11)",
+    "card2_subtitle": "Script et Storyboard",
+    "card2_desc": "Création du storyboard et du script par notre pédagogue et notre scénariste.",
+    "card3_title": "(1ère Validation)",
+    "card3_subtitle": "1ère Validation",
+    "card3_desc": "Vous validez le script et le storyboard via notre plateforme dédiée.",
+    "card4_title": "(Jour 12-18)",
+    "card4_subtitle": "Motion Design",
+    "card4_desc": "Animation du storyboard par nos motion designers.",
+    "card5_title": "(2ème Validation)",
+    "card5_subtitle": "2ème Validation",
+    "card5_desc": "Vous visionnez la V1 de la vidéo et nous faites vos retours sur la plateforme.",
+    "card6_title": "(Jour 19-21)",
+    "card6_subtitle": "Ajustements",
+    "card6_desc": "Corrections sur la base de vos retours sur la V1 par nos motion designers.",
+    "card7_subtitle": "Livraison finale",
+    "button_start": "Commencez Votre Transformation Maintenant !",
+    "side_text": "“Votre temps est précieux : nous gérons l'entièreté du projet, en ne vous impliquant qu'à trois moments clés pour vos décisions stratégiques.”",
+    "side_img_alt": "Portrait d'Arthur, chef de projet"
+  },
+  "testimonials": {
+    "title": "Leurs retour d'expérience",
+    "testimonial1_quote": "Leur expertise nous a permis de lancer notre projet en un temps record. Une équipe à l'écoute et incroyablement efficace.",
+    "testimonial1_name": "Jean Dupont",
+    "testimonial1_title": "CEO, TechInnov",
+    "testimonial1_avatar": "Portrait de Jean Dupont",
+    "testimonial2_quote": "La qualité du code et le respect des délais sont irréprochables. Summity a su traduire notre vision en une solution digitale performante.",
+    "testimonial2_name": "Marie Curie",
+    "testimonial2_title": "Directrice Marketing, SolutionPro",
+    "testimonial2_avatar": "Portrait de Marie Curie",
+    "testimonial3_quote": "Un partenaire de confiance qui va au-delà du développement. Leur approche stratégique a été un véritable atout pour notre croissance.",
+    "testimonial3_name": "Pierre Martin",
+    "testimonial3_title": "Fondateur, Startup Agile",
+    "testimonial3_avatar": "Portrait de Pierre Martin"
+  },
+  "socialProof": {
+    "text": "Reconnus par les leaders de l'industrie"
+  },
+  "cta": {
+    "title": "Prêt à transformer votre formation ?",
+    "subtitle": "Contactez-nous pour discuter de votre projet et découvrir comment nos vidéos peuvent révolutionner l'apprentissage dans votre entreprise.",
+    "button_appointment": "Prendre un rendez-vous",
+    "button_quote": "Demander un devis gratuit",
+    "button_call": "Planifier un appel"
+  },
+  "footer": {
+    "aboutUsTitle": "À Propos",
+    "aboutUsDescription": "Agence de création vidéo innovante spécialisée en motion design pour l'e-learning et la formation d'entreprise. Nous transformons les idées complexes en histoires visuelles engageantes.",
+    "quickLinksTitle": "Liens Rapides",
+    "contactTitle": "Nous Contacter",
+    "followUsTitle": "Suivez-nous",
+    "address": "Montréal, Canada",
+    "navProjects": "Projets",
+    "navPackages": "Offres",
+    "navProcess": "Démarche",
+    "navTestimonials": "Avis",
+    "navContact": "Contact",
+    "copyright": "© {{year}} Summity. Tous droits réservés.",
+    "legalNotice": "Mentions Légales",
+    "termsOfUse": "Conditions d'utilisation"
+  },
+  "legalNotice": {
+    "title": "Mentions Légales",
+    "sections": [
+      {
+        "title": "Éditeur du site",
+        "content": "Le site web summity.ca est édité par : Summity Inc. 9329 rue de Lille, Montréal, QC, Canada H1z 2p4, 514-953-8013, arthurlemire@summity.ca. Directeur de la publication : Arthur Lemire, Fondateur."
+      },
+      {
+        "title": "Hébergeur du site",
+        "content": "Le site web est hébergé par : Netlify, 512 2nd Street, Suite 200 San Francisco, CA 94107 États-Unis."
+      }
+    ]
+  },
+  "termsOfUse": {
+    "title": "Politique de Confidentialité & Conditions d'Utilisation",
+    "sections": [
+      {
+        "title": "Politique de Confidentialité de Summity Inc.",
+        "content": [
+          "<strong>Introduction</strong> La présente politique de confidentialité décrit comment Summity Inc. (« nous ») collecte, utilise, protège et partage les informations personnelles des utilisateurs (« vous ») de notre site web."
+        ]
+      },
+      {
+        "title": "1. Collecte des informations personnelles",
+        "content": "Nous collectons des informations lorsque vous nous contactez via un formulaire de contact, vous inscrivez à notre infolettre, ou utilisez notre site web. Les informations collectées peuvent inclure votre nom, adresse courriel, numéro de téléphone et des données techniques (adresse IP, type de navigateur) via des cookies et des outils d'analyse web comme Google Analytics."
+      },
+      {
+        "title": "2. Utilisation des informations personnelles",
+        "content": "Les informations que nous recueillons servent à :<ul><li>Répondre à vos demandes et à vos questions.</li><li>Gérer les communications et vous envoyer des informations sur nos services.</li><li>Améliorer et personnaliser votre expérience sur notre site web.</li><li>Analyser l'utilisation du site web pour optimiser nos services.</li></ul>"
+      },
+      {
+        "title": "3. Partage des informations personnelles",
+        "content": "Nous ne vendons ni ne louons vos informations personnelles à des tiers. Vos informations peuvent être partagées avec des prestataires de services tiers (par exemple, des services d'hébergement ou des plateformes d'envoi d'infolettres) pour nous aider à exploiter notre entreprise, mais seulement si ces tiers s'engagent à maintenir la confidentialité de cette information."
+      },
+      {
+        "title": "4. Sécurité",
+        "content": "Nous mettons en œuvre des mesures de sécurité pour protéger vos informations personnelles. Cependant, aucune méthode de transmission sur Internet n'est totalement sécurisée, et nous ne pouvons pas garantir une sécurité absolue."
+      },
+      {
+        "title": "5. Vos droits",
+        "content": "Vous avez le droit d'accéder aux informations personnelles que nous détenons à votre sujet et de demander leur rectification ou leur suppression. Pour exercer ces droits ou pour toute question concernant notre politique de confidentialité, veuillez nous contacter à arthurlemire@summity.ca."
+      },
+      {
+        "title": "6. Cookies",
+        "content": "Notre site web utilise des cookies pour améliorer votre user experience. Vous pouvez désactiver les cookies via les paramètres de votre navigateur, mais cela pourrait affecter la fonctionnalité de certaines parties de notre site."
+      },
+      {
+        "title": "Conditions Générales d'Utilisation de Summity Inc.",
+        "content": ""
+      },
+      {
+        "title": "Article 1: Acceptation des Conditions",
+        "content": "En accédant et en utilisant ce site web, vous acceptez d'être lié par les présentes Conditions Générales d'Utilisation (CGU). Si vous n'acceptez pas ces conditions, vous devez cesser immédiatement d'utiliser ce site."
+      },
+      {
+        "title": "Article 2: Propriété Intellectuelle",
+        "content": "Le contenu de ce site web, incluant mais sans s'y limiter, les textes, graphiques, vidéos, logos, icônes, et images, est la propriété de Summity Inc. ou de ses concédants de licence et est protégé par les lois sur la propriété intellectuelle. Any unauthorized reproduction, distribution, or use of the content is strictly prohibited."
+      },
+      {
+        "title": "Article 3: Utilisation du site",
+        "content": "Vous vous engagez à utiliser ce site web de manière légale et appropriée. Il est interdit d'utiliser le site pour publier du contenu illégal, diffamatoire, obscène ou nuisible. Vous ne devez pas non plus interférer avec le fonctionnement du site."
+      },
+      {
+        "title": "Article 4: Liens Externes",
+        "content": "Ce site peut contenir des liens vers des sites web de tiers. Ces liens sont fournis uniquement pour votre commodité. Nous n'avons aucun contrôle sur le content de ces sites et ne sommes pas responsables de leur content ou de leurs pratiques de confidentialité."
+      },
+      {
+        "title": "Article 5: Limitation de Responsabilité",
+        "content": "Ce site web et son content sont fournis « tels quels ». Nous ne faisons aucune garantie, expresse ou implicite, quant à l'exactitude ou la fiabilité de l'information qui s'y trouve. En aucun cas, Summity Inc. ne pourra être tenue responsable des dommages directs, indirects, ou de toute autre nature découlant de l'utilisation de ce site."
+      },
+      {
+        "title": "Article 6: Droit Applicable et Juridiction",
+        "content": "Ces CGU sont régies par les lois de la province de Québec. Tout litige relatif à l'utilisation de ce site sera porté devant les tribunaux compétents du district judiciaire de Montréal."
+      }
+    ]
+  },
+  "calendly": {
+    "title": "Prenez rendez-vous directement"
+  }
+}
